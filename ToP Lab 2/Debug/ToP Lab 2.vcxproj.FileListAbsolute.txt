@@ -1,0 +1,4 @@
+C:\User Files\Учеба\4 семестр\Теория Программирования\ToP Lab 2\Debug\ToP Lab 2.exe
+C:\User Files\Учеба\4 семестр\Теория Программирования\ToP Lab 2\Debug\ToP Lab 2.pdb
+C:\User Files\Учеба\4 семестр\Технология Программирования\ToP Lab 2\Debug\ToP Lab 2.exe
+C:\User Files\Учеба\4 семестр\Технология Программирования\ToP Lab 2\Debug\ToP Lab 2.pdb
