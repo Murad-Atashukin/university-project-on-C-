@@ -1,0 +1,72 @@
+﻿  main.cpp
+C:\Users\User\source\repos\ToP Lab 4\main.cpp(261,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\ToP Lab 4\main.cpp(17,29): warning C4244: return: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int16_t
+          ]
+C:\Users\User\source\repos\ToP Lab 4\main.cpp(43): message : выполняется компиляция ссылки на экземпляр шаблон функции "T random_pulling<T>(T *)"
+          with
+          [
+              T=int16_t
+          ]
+C:\Users\User\source\repos\ToP Lab 4\main.cpp(294): message : выполняется компиляция ссылки на экземпляр шаблон функции "void template_arr_swap<int16_t>(T *,int16_t)"
+          with
+          [
+              T=int16_t
+          ]
+C:\Users\User\source\repos\ToP Lab 4\main.cpp(22,29): warning C4244: return: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int16_t
+          ]
+C:\Users\User\source\repos\ToP Lab 4\main.cpp(12,17): warning C4244: return: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\ToP Lab 4\main.cpp(43): message : выполняется компиляция ссылки на экземпляр шаблон функции "T random_pulling<T>(T *)"
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\ToP Lab 4\main.cpp(301): message : выполняется компиляция ссылки на экземпляр шаблон функции "void template_arr_swap<float>(T *,int16_t)"
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\ToP Lab 4\main.cpp(22,29): warning C4244: return: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\ToP Lab 4\main.cpp(27,13): warning C4244: return: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\ToP Lab 4\main.cpp(17,29): warning C4244: return: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=char
+          ]
+C:\Users\User\source\repos\ToP Lab 4\main.cpp(43): message : выполняется компиляция ссылки на экземпляр шаблон функции "T random_pulling<T>(T *)"
+          with
+          [
+              T=char
+          ]
+C:\Users\User\source\repos\ToP Lab 4\main.cpp(315): message : выполняется компиляция ссылки на экземпляр шаблон функции "void template_arr_swap<char>(T *,int16_t)"
+          with
+          [
+              T=char
+          ]
+C:\Users\User\source\repos\ToP Lab 4\main.cpp(22,29): warning C4244: return: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=char
+          ]
+C:\Users\User\source\repos\ToP Lab 4\main.cpp(29): warning C4715: random_pulling<short>: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\ToP Lab 4\main.cpp(29): warning C4715: random_pulling<float>: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\ToP Lab 4\main.cpp(29): warning C4715: random_pulling<char>: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\ToP Lab 4\main.cpp(29): warning C4715: random_pulling<double>: значение возвращается не при всех путях выполнения
+  ToP Lab 4.vcxproj -> C:\Users\User\source\repos\ToP Lab 4\Debug\ToP Lab 4.exe
